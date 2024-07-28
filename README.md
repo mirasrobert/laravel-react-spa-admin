@@ -1,6 +1,6 @@
 # Laravel & React SPA Template
 
-This template is a simple setup of laravel 11 and react js 18.0 version. It uses react router and redux toolkit to handle state management for authentication. It uses the cookie based session authentication.
+This template is a simple setup of laravel 11 and react js 18.0 version. It uses react router and redux toolkit to handle state management for authentication. It uses the cookie based session authentication. This is a admin dashboard template using adminator
 
 # Dockerize Setup
 
