@@ -15,6 +15,7 @@ import NotFound from "@/pages/NotFound";
 // Example Pages
 import Forms from "../pages/examples/Forms";
 import UIElements from "../pages/examples/UIElements";
+import Tables from "../pages/examples/Tables";
 
 const router = createBrowserRouter([
     {
@@ -52,6 +53,10 @@ const router = createBrowserRouter([
             {
                 path: "ui-elements",
                 element: <UIElements />,
+            },
+            {
+                path: "table",
+                element: <Tables />,
             },
         ],
     },

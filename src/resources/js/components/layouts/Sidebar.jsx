@@ -90,11 +90,11 @@ const Sidebar = () => {
                         </span>
                         <span className="title">Blank Page</span>
                     </SideBarLink>
-                    <SideBarLink to="/users">
+                    <SideBarLink to="/table">
                         <span className="icon-holder">
                             <i className="ti-user" aria-hidden="true"></i>
                         </span>
-                        <span className="title">Users</span>
+                        <span className="title">Table</span>
                     </SideBarLink>
                     <SideBarLink className="nav-item" to="/forms">
                         <span className="icon-holder">

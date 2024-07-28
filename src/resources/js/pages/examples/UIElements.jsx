@@ -358,7 +358,7 @@ const UIElements = () => {
                             <a
                                 href="#"
                                 className="list-group-item list-group-item-action disabled"
-                                tabindex="-1"
+                                tabIndex="-1"
                                 aria-disabled="true"
                             >
                                 A disabled link item
@@ -385,7 +385,7 @@ const UIElements = () => {
                         <div
                             className="modal fade"
                             id="exampleModal"
-                            tabindex="-1"
+                            tabIndex="-1"
                             aria-labelledby="exampleModalLabel"
                             aria-hidden="true"
                         >
